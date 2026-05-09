@@ -8,4 +8,4 @@ Welcome to my Scratch maze game! Navigate through the walls to reach the end.
 * Reach the green portal to win the level.
 
 ### 🚀 Play it now!
-[Click here to play the game on GitHub Pages](https://tamanya2vec.github.io/maze-game/)
+[Click here to play the game on GitHub Pages](https://tam2vec.github.io/maze-game/)
